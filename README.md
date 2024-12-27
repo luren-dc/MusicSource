@@ -1,0 +1,19 @@
+# LX Music Source
+
+> The sound source is only valid for the latest version of LX Music
+>
+> Music platform is not easy, please respect copyright and support genuine ones
+
+## Supported platforms
+
+- [x] Netease
+  - [x] 128k
+  - [x] 320k
+  - [x] flac
+  - [x] flac24bit
+- [x] Tencent
+  - [x] 128k
+  - [x] 320k
+  - [x] flac
+  - [x] flac24bit
+
