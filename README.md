@@ -1,8 +1,8 @@
 # LX Music Source
 
-> The sound source is only valid for the latest version of LX Music
+> The source is only valid for the latest version of LX Music
 >
-> Music platform is not easy, please respect copyright and support genuine ones
+> Music platform is not easy, please respect copyright 和 support genuine ones
 
 ## Supported platforms
 
